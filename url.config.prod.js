@@ -1,3 +1,3 @@
 module.exports = {
-  greeting: 'Hello Prod'
+  greeting: '[PRODUCTION_URL]'
 };
